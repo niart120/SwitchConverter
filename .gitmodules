@@ -1,0 +1,3 @@
+[submodule "SwitchControlLibrary"]
+	path = SwitchControlLibrary
+	url = https://github.com/celclow/SwitchControlLibrary.git
